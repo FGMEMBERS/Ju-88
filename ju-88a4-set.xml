@@ -20,6 +20,22 @@ don@sol2500.net
   <description>Junkers Ju-88 A4</description>
   <author>Detlef Faber</author>
   <status>beta</status>
+
+  <tags>
+      <tag>junkers</tag>
+      <tag>low-wing</tag>
+      <tag>tail-dragger</tag>
+      <tag>fixed-gear</tag>
+      <tag>single-engine</tag>
+      <tag>propeller</tag>
+      <tag>bomber</tag>
+      <tag>piston</tag>
+      <tag>1930s</tag>
+      <tag>1940s</tag>
+      <tag>ww2</tag>
+  </tags>
+     
+
   <flight-model>yasim</flight-model>
   <aero>ju-88a4-yasim</aero>
   <fuel-fraction>1.0</fuel-fraction>
